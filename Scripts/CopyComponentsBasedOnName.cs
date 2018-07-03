@@ -12,10 +12,11 @@ public class CopyComponentsBasedOnName : MonoBehaviour
     private Transform[] targets;
 
 
+
     // Use this for initialization
     void Start()
     {
-        CopyComponents();
+        //CopyComponents();
     }
 
     // Update is called once per frame
