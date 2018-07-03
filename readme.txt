@@ -1,5 +1,7 @@
 
-CopyComponentsBasedOnName v1.0
+CopyComponentsBasedOnName v1.1
+
+
 
 コンポーネントをコピーするためのスクリプトのβ版です。
 
@@ -7,3 +9,5 @@ CopyComponentsBasedOnName v1.0
 同じ名前のObjectが存在すると正常に動作しません。
 
 
+v1.1
+不具合の修正
